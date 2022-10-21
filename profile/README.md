@@ -1,6 +1,6 @@
 # Welcome to Conduktor!
 
-![Be Conduktor](https://github.com/conduktor/.github/blob/main/profile/team.png)
+![Be Conduktor](https://github.com/conduktor/.github/blob/main/profile/team.jpg)
 
 Here at [Conduktor](https://conduktor.io/), we work at providing the most complete platform for improving the productivity of
 teams that are working with data streaming and Apache Kafka.
