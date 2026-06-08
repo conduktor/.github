@@ -6,16 +6,7 @@ We make Apache Kafka safe to share. Conduktor is the control plane platform team
 
 ## Point AI at your Kafka
 
-Smarter AI, because you hold the context. Safer AI, because you hold the permissions.
-
-AI on Kafka is only useful if it's smart, and only adoptable if it's safe. Conduktor is the self-hosted layer that delivers both, without ever taking ownership of your data. It gives an LLM the full picture: ownership, schemas, lineage, policies, apps, and monitoring across every cluster, so it knows who owns what, what's sensitive, and what changed. When something breaks, those signals sit in one place, so the model correlates lag, dead consumers, and schema breaks instead of guessing.
-
-Every AI, MCP, and CLI action inherits the user's exact RBAC: read-only or read-write, per cluster and per team. The model runs inside the access rules you already trust.
-
-- **Conduktor MCP** runs read-only inside Console for safe exploration.
-- **[skills](https://github.com/conduktor/skills)** and the CLI give coding agents a larger, governed surface when it's time to act.
-
-[Explore Conduktor MCP](https://conduktor.io/mcp) · [Set up with an AI agent](https://github.com/conduktor/skills)
+Smarter AI, because you hold the context. Safer AI, because you hold the permissions. [Explore Conduktor MCP](https://conduktor.io/mcp) · [Set up with an AI agent](https://github.com/conduktor/skills)
 
 ## The Conduktor platform
 
