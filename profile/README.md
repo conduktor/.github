@@ -4,17 +4,27 @@ We make Apache Kafka safe to share. Conduktor is the control plane platform team
 
 [Website](https://conduktor.io) · [Docs](https://docs.conduktor.io) · [Learn Apache Kafka](https://conduktor.io/kafka) · [Kafka Glossary](https://conduktor.io/glossary)
 
+## Point AI at your Kafka
+
+Smarter AI, because you hold the context. Safer AI, because you hold the permissions.
+
+AI on Kafka is only useful if it's smart, and only adoptable if it's safe. Conduktor is the self-hosted layer that delivers both, without ever taking ownership of your data. It gives an LLM the full picture: ownership, schemas, lineage, policies, apps, and monitoring across every cluster, so it knows who owns what, what's sensitive, and what changed. When something breaks, those signals sit in one place, so the model correlates lag, dead consumers, and schema breaks instead of guessing.
+
+Every AI, MCP, and CLI action inherits the user's exact RBAC: read-only or read-write, per cluster and per team. The model runs inside the access rules you already trust.
+
+- **Conduktor MCP** runs read-only inside Console for safe exploration.
+- **[skills](https://github.com/conduktor/skills)** and the CLI give coding agents a larger, governed surface when it's time to act.
+
+[Explore Conduktor MCP](https://conduktor.io/mcp) · [Set up with an AI agent](https://github.com/conduktor/skills)
+
 ## The Conduktor platform
 
 - **[conduktor-platform](https://github.com/conduktor/conduktor-platform)** — the Apache Kafka operations platform: Console, Gateway, and the APIs that tie them together.
-- **[conduktor-gateway-demos](https://github.com/conduktor/conduktor-gateway-demos)** — the Gateway in action. Field-level encryption, multi-tenancy, chaos testing, and other interceptors you can run yourself.
 - **[passthrough-gateway-quickstart](https://github.com/conduktor/passthrough-gateway-quickstart)** — drop the Gateway in front of any cluster locally and see your traffic in minutes.
-- **[skills](https://github.com/conduktor/skills)** — open-source agent skills that teach Claude, Cursor, and other AI assistants how Conduktor and Kafka actually work.
 
 ## Run Kafka in minutes
 
 - **[kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)** — Docker Compose files for a full Kafka stack: single broker, multi-broker, Schema Registry, Kafka Connect. The fastest way to get a real cluster on your laptop.
-- **[kafka-security-manager](https://github.com/conduktor/kafka-security-manager)** — manage Kafka ACLs as code, version-controlled and applied at scale instead of by hand.
 - **[terraform-provider-conduktor](https://github.com/conduktor/terraform-provider-conduktor)** — provision Conduktor and your Kafka resources with Terraform.
 - **[ctl](https://github.com/conduktor/ctl)** — the Conduktor CLI, for driving the platform from your terminal or CI.
 
