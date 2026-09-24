@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/60062294?s=200" alt="Conduktor" width="120">
+</p>
+
 # Conduktor
 
-We make Apache Kafka safe to share. Conduktor is the control plane platform teams put in front of their clusters: a Console to see what's happening, a Gateway to enforce rules in the data path, and a CLI to automate the rest. One place to give developers self-service access without handing them the keys to production.
+We make Apache Kafka safe to share. Conduktor is the Kafka operations platform that sits on top of the Kafka you already run: a Console (control plane) to see and manage what's happening, a Gateway (data-plane proxy for Kafka and Schema Registry) to enforce security and policies in the data path, and a CLI to automate it all. Developers get self-service and velocity; platform teams get the guardrails and standards, without handing over the keys to production.
 
-[Website](https://conduktor.io) · [Docs](https://docs.conduktor.io) · [Learn Apache Kafka](https://conduktor.io/kafka) · [Kafka Glossary](https://conduktor.io/glossary)
+[Website](https://conduktor.io) · [Docs](https://docs.conduktor.io) · [Kafka Glossary](https://conduktor.io/glossary)
 
 ## Point AI at your Kafka
 
@@ -23,5 +27,10 @@ Smarter AI, because you hold the context. Safer AI, because you hold the permiss
 
 - **[Learn Apache Kafka](https://conduktor.io/kafka)** — our free, hands-on Kafka course: topics, producers, consumers, the CLI, and production internals.
 - **[awesome-kafka](https://github.com/conduktor/awesome-kafka)** — a curated list of Kafka tools, libraries, blogs, and talks.
+- **[awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-connect)** - a curated list of Kafka Connect connectors.
 
 Browse [all our repositories](https://github.com/orgs/conduktor/repositories?type=source) for connectors, demos, and reference architectures.
+
+## Join us
+
+[Careers](https://conduktor.io/careers) · [Community](https://conduktor.io/community) · [Blog](https://conduktor.io/blog) · [LinkedIn](https://www.linkedin.com/company/conduktor/) · [X](https://x.com/getconduktor) · [YouTube](https://www.youtube.com/channel/UCTr4J1unmW5QKJ14M6aPYdQ)
