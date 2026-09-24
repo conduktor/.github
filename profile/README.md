@@ -20,7 +20,7 @@ Smarter AI, because you hold the context. Safer AI, because you hold the permiss
 
 ## Run Kafka in minutes
 
-- **[kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)** — Docker Compose files for a full Kafka stack: single broker, multi-broker, Schema Registry, Kafka Connect. The fastest way to get a real cluster on your laptop.
+- **[kafka-stack-docker-compose](https://github.com/conduktor/kafka-stack-docker-compose)** — Docker Compose files for a full Kafka stack. The fastest way to get a real cluster on your laptop.
 - **[terraform-provider-conduktor](https://github.com/conduktor/terraform-provider-conduktor)** — provision Conduktor and your Kafka resources with Terraform.
 - **[ctl](https://github.com/conduktor/ctl)** — the Conduktor CLI, for driving the platform from your terminal or CI.
 - **[conduktor-public-charts](https://github.com/conduktor/conduktor-public-charts)** - official Helm charts to deploy Conduktor on Kubernetes.
